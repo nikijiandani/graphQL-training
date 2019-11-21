@@ -16,7 +16,7 @@ const root = {
       lastName: 'Jiandani',
       gender: 'does it matter?',
       language: 'Anglais',
-      email: 'me@me.com'
+      emails: [{ email: 'me@me.com' }, { email: 'another@me.com' }]
     };
   }
 };
